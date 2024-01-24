@@ -1,5 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
+ {
+      name: 'interPlanet site',
+      link: 'free-4259833.webador.com',
+      image: '/assets/media/icons/apps/gitlogo.png',
+      categories: ['all', 'media'],
+      error: false,
+    },
     {
       name: 'Amazon',
       link: 'https://amazon.com/',
@@ -7,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'media'],
       error: false,
     },
+     {
     {
       name: 'BuzzFeed Quizzes',
       link: 'https://buzzfeed.com/quizzes',

@@ -128,6 +128,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false,
     },
     {
+      name: 'Hero Wars',
+      link: 'https://hero-wars.com/',
+      image: '/assets/media/icons/hero-wars.jpeg',
+      categories: ['all'],
+      error: false,
+    },
+    {
       name: 'Minecraft Classic',
       link: 'https://classic.minecraft.net',
       image: '/assets/media/icons/mc.webp',

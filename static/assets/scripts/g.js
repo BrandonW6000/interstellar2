@@ -39,6 +39,14 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false,
     },
     {
+      name: 'Geometry Dash',
+      link: 'https://geometrydash-free.com/',
+      image: '/assets/media/icons/geometry-dash.png',
+      categories: ['all'],
+      error: false,
+    },
+    {
+    {
       name: 'Gladihoppers',
       link: 'https://bonbang.github.io/store99/gladihoppers/index.html',
       image: '/assets/media/icons/gladihoppers.jpg',

@@ -15,6 +15,14 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
       error: false,
     },
+        {
+      name: 'A small World Cup',
+      link: 'https://poki.com/en/g/a-small-world-cup',
+      image: '/assets/media/icons/small-world-cup.jpeg',
+      categories: ['all'],
+      blank: 'true',
+      error: false,
+    },
     {
       name: 'Dynast.io',
       link: 'https://dynast.io',

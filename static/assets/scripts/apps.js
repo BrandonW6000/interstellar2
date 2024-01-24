@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
  {
       name: 'interPlanet site',
-      link: 'free-4259833.webador.com',
+      link: 'https://free-4259833.webador.com',
       image: '/assets/media/icons/apps/gitlogo.png',
       categories: ['all', 'media'],
       error: false,
